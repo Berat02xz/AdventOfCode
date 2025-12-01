@@ -1,8 +1,17 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.13.35507.96
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11121.172 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_2024", "AdventOfCode_2024\AdventOfCode_2024.csproj", "{83EFF30C-86D1-4D3D-B5D2-905A52E770D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2024", "2024", "{7DE80520-3E25-406F-A6AE-028A4C988460}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2025", "2025", "{3774792F-4E04-4C1E-9EB2-365BD6CE235A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1", "Day 1", "{5A553BC4-C607-46A7-B488-2DF6AE1C29FD}"
+	ProjectSection(SolutionItems) = preProject
+		Day1_Finki.cs = Day1_Finki.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +26,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A553BC4-C607-46A7-B488-2DF6AE1C29FD} = {3774792F-4E04-4C1E-9EB2-365BD6CE235A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9C0BFD82-88AB-4EBF-A40A-C4409C0F5288}

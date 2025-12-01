@@ -2,17 +2,8 @@
 // At the end of the advent this class will be the one that will run all the solutions for the problems by letting you choose which day you want to run and compare times
 
 
-using AdventOfCode_2024.Day_1;
-using AdventOfCode_2024.Day_2;
-using AdventOfCode_2024.Day_3;
-using AdventOfCode_2024.Day_4;
-using AdventOfCode_2024.Day_5;
-using AdventOfCode_2024.Day_6;
-using AdventOfCode_2024.Day_7;
-using AdventOfCode_2024.Day_8;
-using AdventOfCode_2024.Day_9;
-using AdventOfCode_2024.Day10;
-using AdventOfCode_2024.Day11;
+using AdventOfCode_2025.Day_1;
+
 
 namespace AdventOfCode_2025
 {
@@ -21,7 +12,7 @@ namespace AdventOfCode_2025
         public static void Main(string[] args)
         {
             Console.WriteLine("Pick Solution From Commented Lines To Run (Open in editor)");
-            // Puzzle1.Solution(args);
+            Puzzle1.Solution(args);
             // Puzzle2.Solution(args);
             // Puzzle3.Solution(args);
             // Puzzle4.Solution(args);
