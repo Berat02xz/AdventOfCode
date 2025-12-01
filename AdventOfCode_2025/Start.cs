@@ -4,7 +4,6 @@
 
 using AdventOfCode_2025.Day_1;
 
-
 namespace AdventOfCode_2025
 {
     public class Start
@@ -12,8 +11,8 @@ namespace AdventOfCode_2025
         public static void Main(string[] args)
         {
             Console.WriteLine("Pick Solution From Commented Lines To Run (Open in editor)");
-            Puzzle1.Solution(args);
-            // Puzzle2.Solution(args);
+            // FINKI_Puzzle1.Solution(args);
+            AOC_Puzzle1.Solution(args);
             // Puzzle3.Solution(args);
             // Puzzle4.Solution(args);
             // Puzzle5.Solution(args);
@@ -23,7 +22,7 @@ namespace AdventOfCode_2025
             // Puzzle9.Solution(args);
             // Puzzle10.Solution(args);
             // Puzzle11.Solution(args);
-            
+
         }
     }
 }
