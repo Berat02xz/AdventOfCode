@@ -12,3 +12,4 @@ obj/
 Debug/
 Release/
 input.txt
+*.txt
