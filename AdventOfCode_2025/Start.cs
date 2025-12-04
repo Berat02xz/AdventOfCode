@@ -5,6 +5,9 @@
 using AdventOfCode_2025.Day_1;
 using AdventOfCode_2025.Day_2;
 using AdventOfCode_2025.Day_3;
+using AdventOfCode_2025.Day_4;
+using AdventOfCode_2025.Day_5;
+
 
 namespace AdventOfCode_2025
 {
@@ -16,8 +19,9 @@ namespace AdventOfCode_2025
             // FINKI_Puzzle1.Solution(args);
             // AOC_Puzzle1.Solution(args);
             // AOC_Puzzle2.Solution(args);
-            AOC_Puzzle3.Solution(args);
-
+            // AOC_Puzzle3.Solution(args);
+            // AOC_Puzzle4.Solution(args);
+            AOC_Puzzle5.Solution(args);
 
         }
     }
