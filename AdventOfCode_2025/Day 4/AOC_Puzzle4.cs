@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AdventOfCode_2025.Day_4
 {
-    public class AOC_Puzzle5
+    public class AOC_Puzzle4
     {
         public static void Solution(string[] args)
         {
