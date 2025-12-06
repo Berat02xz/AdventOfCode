@@ -25,4 +25,4 @@ In order to respect the [TOS](https://adventofcode.com/2024/about) of this event
 | Year | Result   |
 |------|----------|
 | 2024 | 20 stars |
-| 2025 | 2 stars  |
+| 2025 | 11 stars  |
